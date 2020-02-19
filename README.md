@@ -4,7 +4,7 @@
 <title>Food Court</title>
 <style>
 header{
-background-image:url(https://st4.depositphotos.com/1020618/20219/i/1600/depositphotos_202195622-stock-photo-various-of-asian-meals-on.jpg);
+background-image:url("https://st4.depositphotos.com/1020618/20219/i/1600/depositphotos_202195622-stock-photo-various-of-asian-meals-on.jpg");
 padding:1px;
 }
 #name{

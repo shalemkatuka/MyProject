@@ -1,4 +1,4 @@
-# MyProject
+<!DOCTYPE html>
 <html>
 <head>
 <title>Food Court</title>
